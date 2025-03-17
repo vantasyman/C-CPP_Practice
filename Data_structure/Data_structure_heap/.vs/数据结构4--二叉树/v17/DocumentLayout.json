@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCEBB6-CFFC-430E-AE35-3F1B8B3CEA8B}|\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811.vcxproj|E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63FCEBB6-CFFC-430E-AE35-3F1B8B3CEA8B}|\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCEBB6-CFFC-430E-AE35-3F1B8B3CEA8B}|\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811.vcxproj|E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\Heap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63FCEBB6-CFFC-430E-AE35-3F1B8B3CEA8B}|\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811.vcxproj|solutionrelative:Heap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCEBB6-CFFC-430E-AE35-3F1B8B3CEA8B}|\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811.vcxproj|E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\Heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63FCEBB6-CFFC-430E-AE35-3F1B8B3CEA8B}|\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811.vcxproj|solutionrelative:Heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heap.c",
+              "DocumentMoniker": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\Heap.c",
+              "RelativeDocumentMoniker": "Heap.c",
+              "ToolTip": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\Heap.c",
+              "RelativeToolTip": "Heap.c",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-14T12:23:50.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Heap.h",
+              "DocumentMoniker": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\Heap.h",
+              "RelativeDocumentMoniker": "Heap.h",
+              "ToolTip": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\Heap.h",
+              "RelativeToolTip": "Heap.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:23:38.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "E:\\c\\\u6570\u636E\u7ED3\u67844--\u4E8C\u53C9\u6811\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-14T09:22:34.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

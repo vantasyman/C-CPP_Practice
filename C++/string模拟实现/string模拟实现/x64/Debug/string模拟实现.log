@@ -1,0 +1,6 @@
+﻿  test.cpp
+E:\code\c++\string模拟实现\string.h(130,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\c++\string模拟实现\string.h(146,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\c++\string模拟实现\string.h(166,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\c++\string模拟实现\string.h(290,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  string模拟实现.vcxproj -> E:\code\c++\string模拟实现\x64\Debug\string模拟实现.exe

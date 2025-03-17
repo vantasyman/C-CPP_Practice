@@ -1,0 +1,4 @@
+﻿  seqlist.c
+E:\c\数据结构2.顺序表&&链表\seqlist.c(13,11): warning C4133: “函数”: 从“SL *”到“const char *”的类型不兼容
+E:\c\数据结构2.顺序表&&链表\seqlist.c(25,10): warning C4133: “函数”: 从“SL *”到“const char *”的类型不兼容
+  数据结构2.顺序表&&链表.vcxproj -> E:\c\数据结构2.顺序表&&链表\x64\Debug\数据结构2.顺序表&&链表.exe

@@ -1,0 +1,4 @@
+﻿  BinaryTree.c
+E:\c\数据结构5--二叉树\queue.h(24,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\c\数据结构5--二叉树\queue.h(27,1): warning C4716: “CirQueueCreate”: 必须返回一个值
+  数据结构5--二叉树.vcxproj -> E:\c\数据结构5--二叉树\x64\Debug\数据结构5--二叉树.exe

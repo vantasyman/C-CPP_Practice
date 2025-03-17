@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\c\u002B\u002B\\Vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D39FB577-919C-4140-B977-6C9BF75505AE}|Vector.vcxproj|E:\\code\\c\u002B\u002B\\Vector\\vector_using.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D39FB577-919C-4140-B977-6C9BF75505AE}|Vector.vcxproj|solutionrelative:vector_using.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector_using.cpp",
+              "DocumentMoniker": "E:\\code\\c\u002B\u002B\\Vector\\vector_using.cpp",
+              "RelativeDocumentMoniker": "vector_using.cpp",
+              "ToolTip": "E:\\code\\c\u002B\u002B\\Vector\\vector_using.cpp",
+              "RelativeToolTip": "vector_using.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T08:17:06.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

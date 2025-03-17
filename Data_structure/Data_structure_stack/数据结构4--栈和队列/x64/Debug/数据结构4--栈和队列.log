@@ -1,0 +1,11 @@
+﻿  Stack.c
+E:\c\数据结构4--栈和队列\Stack.c(23,14): warning C4133: “=”: 从“Stack *”到“stack *”的类型不兼容
+E:\c\数据结构4--栈和队列\Stack.c(24,14): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\c\数据结构4--栈和队列\Stack.c(31,8): warning C4133: “=”: 从“stack *”到“Stack *”的类型不兼容
+E:\c\数据结构4--栈和队列\Stack.c(48,3): warning C4047: “return”:“int”与“int *”的间接级别不同
+E:\c\数据结构4--栈和队列\Stack.c(51,3): warning C4033: “Stacktop”必须返回值
+E:\c\数据结构4--栈和队列\Stack.c(59,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\数据结构4--栈和队列\Stack.c(59,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+E:\c\数据结构4--栈和队列\Stack.c(60,7): warning C4133: “=”: 从“stack *”到“Stack *”的类型不兼容
+E:\c\数据结构4--栈和队列\Stack.c(53,1): warning C4715: “Stacktop”: 不是所有的控件路径都返回值
+  数据结构4--栈和队列.vcxproj -> E:\c\数据结构4--栈和队列\x64\Debug\数据结构4--栈和队列.exe

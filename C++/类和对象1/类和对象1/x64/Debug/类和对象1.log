@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\code\c++\类和对象1\test.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  类和对象1.vcxproj -> E:\code\c++\类和对象1\x64\Debug\类和对象1.exe

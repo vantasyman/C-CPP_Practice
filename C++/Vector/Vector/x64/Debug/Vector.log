@@ -1,0 +1,3 @@
+﻿  vector_using.cpp
+E:\code\c++\Vector\vector_using.cpp(19,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Vector.vcxproj -> E:\code\c++\Vector\x64\Debug\Vector.exe

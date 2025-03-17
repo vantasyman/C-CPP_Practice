@@ -1,0 +1,4 @@
+﻿  Test.cpp
+E:\code\c++\进阶二叉树\BSTree.h(104,1): warning C4715: “BSTree<int>::erase”: 不是所有的控件路径都返回值
+E:\code\c++\进阶二叉树\BSTree.h(45,1): warning C4715: “BSTree<int>::insert”: 不是所有的控件路径都返回值
+  进阶二叉树.vcxproj -> E:\code\c++\进阶二叉树\Debug\进阶二叉树.exe
